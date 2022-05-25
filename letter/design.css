@@ -1,0 +1,51 @@
+.box{
+    background-color: yellow;
+    width: 200px;
+    height: 50pxpx;
+    align-items: center;
+    top: 5px;
+    line-height: 50px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.fa-facebook-f{
+    color: blue;
+}
+
+.fa-linkedin{
+    color: blue;
+}
+
+.fa-youtube{
+    color: red;
+}
+
+.cover{
+    background-color: yellowgreen;
+    padding: 20px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fa-twitter{
+    color: blue;
+}
+
+.fa-pinterest{
+    color: red;
+}
+
+.fa-instagram{
+    color: red;
+    background-image: linear-gradient(red,yellow);
+}
+
+.fa-whatsapp{
+    color: green;
+}
